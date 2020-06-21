@@ -1,0 +1,312 @@
+{ "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"testmap2.json"
+        }
+    },
+ "height":20,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 2, 2, 5, 2, 2, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2, 5, 2, 2, 2, 2, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 5, 2, 2, 2, 2, 2, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 2, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2, 5, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+         "height":20,
+         "id":1,
+         "name":"Grass",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 2684354567, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2684354568, 1610612743, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225480, 3221225479],
+         "height":20,
+         "id":4,
+         "name":"Borders",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":5,
+ "nextobjectid":16,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.3.5",
+ "tileheight":256,
+ "tilesets":[
+        {
+         "columns":3,
+         "firstgid":1,
+         "image":"Game Dev\/test_tileset.png",
+         "imageheight":1286,
+         "imagewidth":772,
+         "margin":1,
+         "name":"test_tileset",
+         "spacing":1,
+         "tilecount":15,
+         "tileheight":256,
+         "tilewidth":256
+        }, 
+        {
+         "columns":0,
+         "firstgid":16,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"objects",
+         "spacing":0,
+         "tilecount":39,
+         "tileheight":512,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/A.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":1,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Artifact.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":2,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/B.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":3,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Ball.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":4,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Barell_01.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":5,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Barell_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":6,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Barell_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":7,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Cactus_01.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":8,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Cactus_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":9,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Cactus_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":10,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Dot_A.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":11,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Dot_B.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":12,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Dot_C.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":13,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Flag_A.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":14,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Flag_B.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":15,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Football_Goals_A.png",
+                 "imageheight":286,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":16,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Football_Goals_B.png",
+                 "imageheight":286,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":17,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Log.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":18,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Markup_01.png",
+                 "imageheight":512,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":19,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Markup_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":20,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Markup_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":21,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Platform.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":22,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Rock_01.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":23,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Rock_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":24,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Rock_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":25,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Stump.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":26,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tire_01.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":27,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tire_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":28,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tire_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":29,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_01.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":30,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_02.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":31,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_03.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":32,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_04.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":33,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_05.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":34,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_06.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":35,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_07.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":36,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_08.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":37,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Tree_09.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }, 
+                {
+                 "id":38,
+                 "image":"Game Dev\/craftpix-566611-free-battle-location-top-down-game-tileset-pack\/PNG\/Props\/Well.png",
+                 "imageheight":256,
+                 "imagewidth":256
+                }],
+         "tilewidth":512
+        }],
+ "tilewidth":256,
+ "type":"map",
+ "version":1.2,
+ "width":20
+}

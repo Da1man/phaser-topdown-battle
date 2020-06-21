@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "tile000",
+	"frame": {"x":107,"y":54,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":24,"w":32,"h":48},
+	"sourceSize": {"w":80,"h":87}
+},
+{
+	"filename": "tile001",
+	"frame": {"x":54,"y":57,"w":50,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":24,"w":50,"h":48},
+	"sourceSize": {"w":80,"h":87}
+},
+{
+	"filename": "tile002",
+	"frame": {"x":38,"y":2,"w":48,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":14,"w":48,"h":52},
+	"sourceSize": {"w":80,"h":87}
+},
+{
+	"filename": "tile003",
+	"frame": {"x":2,"y":2,"w":33,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":13,"w":33,"h":54},
+	"sourceSize": {"w":80,"h":87}
+},
+{
+	"filename": "tile004",
+	"frame": {"x":89,"y":2,"w":50,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":18,"w":50,"h":49},
+	"sourceSize": {"w":80,"h":87}
+},
+{
+	"filename": "tile005",
+	"frame": {"x":2,"y":59,"w":49,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":24,"w":49,"h":44},
+	"sourceSize": {"w":80,"h":87}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player_walk.png",
+	"format": "RGBA8888",
+	"size": {"w":141,"h":107},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1f3e0bca0cc010af6542ac36bf144c01:ff8a837cf968b0976d872ca76cf8dc49:82886aa83781486ee8923b912fdcbc92$"
+}
+}
